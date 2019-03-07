@@ -3,3 +3,7 @@ class AddFavoriteFoodToArtists < ActiveRecord::Migration
     add_column :artists, :favorite_food, :string
   end
 end
+
+
+
+
